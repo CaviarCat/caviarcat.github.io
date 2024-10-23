@@ -3,8 +3,7 @@ title: 初次接触procreat
 
 notitle: false
 
-description: |
-
+description: 小小的初始起步
 tag:
   - 青涩Naive
   - 未成形的风格Unformed style
