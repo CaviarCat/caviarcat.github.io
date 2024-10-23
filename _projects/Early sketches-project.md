@@ -12,6 +12,7 @@ Tag:
 
 layout: project
 image: /img/projects/sketches1.jfif.crdownload
+image: /img/projects/sketches2.jfif.crdownload
 last-updated: 2024-08-08
 link: https://arxiv.org/abs/2408.07608
 ---
