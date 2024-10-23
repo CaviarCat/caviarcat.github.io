@@ -29,17 +29,17 @@ wolverine:
 bizhu:
     display_name: "爸爸"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/papa.jpg
 
 kedeng:
     display_name: "妈妈"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/mom.jpg
 
 storm:
     display_name: "臭臭"
     role: grad
-    image: /img/people/need.png
+    image: /img/people/95FE8DED3969D61D94D34CA81E47822C.png
 
 
 
