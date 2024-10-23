@@ -11,7 +11,7 @@ tag:
   - 找不到素描关系Unable to find relationship
 
 layout: project
-image: /img/projects/2d.png
+image: /img/projects/procreat.jfif.crdownload
 last-updated: 2020-01-22
 ---
 
