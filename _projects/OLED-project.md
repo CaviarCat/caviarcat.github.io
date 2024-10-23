@@ -5,7 +5,7 @@ notitle: false
 
 description: |
 
-people:
+tag:
   - 纸张paper
   - 手工绘制Hand drawn
 
