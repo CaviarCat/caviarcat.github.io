@@ -55,39 +55,14 @@ chenxi:
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "妈妈是检验科医生"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "爸爸是疾控中心医生"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "臭臭是一只法斗"
     role: collab
 
-chenyan:
-    display_name: "陈炎 Yan Chen"
-    role: collab
-    
-juzheng:
-    display_name: "宋居正 Juzheng Song"
-    role: collab
-
-yayun:
-    display_name: "张亚运 Yayun Zhang"
-    role: collab
-
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
-    role: collab
-    
-
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
