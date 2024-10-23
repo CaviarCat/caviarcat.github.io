@@ -11,9 +11,9 @@ tag:
   - 黑白black and white
 
 layout: project
-image: /img/projects/slices.png
+image: /img/projects/C.webp.crdownload
 last-updated: 2023-06-08
-link: https://www.nature.com/articles/s41467-023-42870-7
+link: https://user.qzone.qq.com/1553282181/infocenter
 ---
 
 ## 简介 Introduction
