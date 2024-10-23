@@ -6,9 +6,9 @@ notitle: false
 description: |
 
 Tag:
-  - sketch
-  - Black and white relationship
-  - Character dynamics
+  - 素描sketch
+  - 黑白关系Black and white relationship
+  - 角色动态Character dynamics
 
 layout: project
 image: /img/projects/sketches1.jfif.crdownload
