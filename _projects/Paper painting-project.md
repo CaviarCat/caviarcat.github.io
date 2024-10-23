@@ -3,8 +3,7 @@ title: 鱼子酱猫猫还在上初中时的纸绘，当时已经对纸张的使�
 
 notitle: false
 
-description: |
-大家都有上课走神的时候吧，自己自娱自乐。
+description: 大家都有上课走神的时候吧，自己自娱自乐。
 tag:
   - 纸张paper
   - 手工绘制Hand drawn
