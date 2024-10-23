@@ -43,15 +43,7 @@ storm:
 
 
 
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
 
-
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
-    role: collab
 
 
 xiaoyang:
