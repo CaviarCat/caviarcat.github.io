@@ -2,12 +2,12 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+    display_name: "鱼子酱猫猫 Caviarcat"
+    github: CaviarCat
     role: faculty
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    bio: 白日梦想家 dreamer
+    webpage: "https://weibo.com/u/5759253852"
 
 scott:
     display_name: "Scott Summers"
@@ -27,17 +27,17 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "爸爸"
     role: grad
     image: /img/people/bizhu.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "妈妈"
     role: grad
     image: /img/people/kedeng.jpg
 
 storm:
-    display_name: "虚位以待  We need you!"
+    display_name: "臭臭"
     role: grad
     image: /img/people/need.png
 
