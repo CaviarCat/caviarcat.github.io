@@ -13,7 +13,7 @@ people:
     
 
 layout: project
-image: /img/projects/RW.jfif.crdownload
+image: /img/projects/RW3.jfif.crdownload
 last-updated: 2020-01-23
 ---
 
