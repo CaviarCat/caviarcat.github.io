@@ -9,7 +9,7 @@ tag:
   - 手工绘制Hand drawn
 
 layout: project
-image: /img/projects/oled.png
+image: /img/projects/Paper painting1.jfif.crdownload
 last-updated: 2020-01-26
 ---
 
