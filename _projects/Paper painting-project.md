@@ -4,7 +4,7 @@ title: 鱼子酱猫猫还在上初中时的纸绘，当时已经对纸张的使�
 notitle: false
 
 description: |
-
+大家都有上课走神的时候吧，自己自娱自乐。
 tag:
   - 纸张paper
   - 手工绘制Hand drawn
@@ -17,3 +17,4 @@ last-updated: 2020-01-26
 ## 简介 Introduction
 
 还没有晚自习，我们还在写《青少年学习》，每天都能和朋友回家的日子真的很好！
+Good old days.
